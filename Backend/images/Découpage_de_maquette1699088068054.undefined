@@ -1,0 +1,9 @@
+Découpage de maquette
+
+Avant de commencer le développement, il est crucial d'étudier attentivement la maquette du site ou de l'application. Cela implique de bien comprendre la structure et le design de chaque page, les éléments interactifs, les couleurs, les polices, etc.
+
+Une fois la maquette étudiée, je commence à découper les éléments graphiques (images, icônes) et à identifier les parties répétitives (comme les en-têtes et pieds de page) pour les réutiliser facilement. Ensuite, je crée une structure HTML en utilisant des balises sémantiques appropriées pour chaque partie du contenu.
+
+Après avoir mis en place la structure HTML, je procède à la stylisation en utilisant CSS pour reproduire le design de la maquette. J'essaie également de rendre le site responsive en utilisant des médias queries pour qu'il s'adapte bien aux différentes tailles d'écran.
+
+ 
